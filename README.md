@@ -1,24 +1,17 @@
 # README
+This repo is a integration of rails 5 and angular 2 with  mysql database.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Prerequisite
 
-Things you may want to cover:
+* NPM
 
-* Ruby version
+* Rails
 
-* System dependencies
+* Typescript
 
-* Configuration
 
-* Database creation
+# Set up
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+ * clone or download this repo
+ * Run `npm install`
+ * Run rails server and visit the local site.
